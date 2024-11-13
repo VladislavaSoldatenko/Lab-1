@@ -6,7 +6,7 @@ def draw_line(offset=0, length=1):
 
 def romb():
     height = 30
-    offset = 15
+    offset = 20
 
 
     for line in range(height):
